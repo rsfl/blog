@@ -28,7 +28,7 @@ twitter_username: rodsoto
 github_username:  rsfl
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
