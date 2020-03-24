@@ -1,0 +1,74 @@
+---
+layout: post
+title:  "Criminals using Covid-19 Pandemic as cover. IT & Cybersecurity “essential”"
+date:   2020-03-23 20:13:29 -0400
+categories: Cybersecurity
+---
+Malicious actors always seek to take advantage of world affairs or popular subjects. With the world grinding to halt over fears and restrictions due to the COVID-19 pandemic, malicious actors are clearly making moves to seize the moment with different attack vectors against users looking out for Coronavirus related information and also against businesses trying to operate during this crisis.
+
+As seen recently, sites such as the fake [coronavirus tracker](https://www.forbes.com/sites/zakdoffman/2020/03/16/new-warning-you-must-not-open-this-malicious-coronavirus-app/#6f8e5fb75763) (CovidLock Ransomware), [maps](https://www.forbes.com/sites/thomasbrewster/2020/03/18/coronavirus-scam-alert-covid-19-map-malware-can-spy-on-you-through-your-android-microphone-and-camera/#5eaf379075fd), [SMS Spam](https://www.forbes.com/sites/mattperez/2020/03/16/coronavirus-scams-watch-out-for-these-efforts-to-exploit-the-pandemic/#71b08bce6103), and fake healers have targeted innocent people simply looking for information on current events related to the coronavirus pandemic.  
+
+CovidLock Ransomware. Source [DomainTools](https://www.domaintools.com/resources/blog/covidlock-update-coronavirus-ransomware)
+![RansomNote](/images/ransom.png)
+
+[Source](https://twitter.com/NCNationalGuard/status/1238196272726753282?s=09)
+![NationalGuard](/images/nationalguardnc.png)
+
+Due to the spread of the coronavirus, millions of people around the world are under lockdowns and millions of them have been advised to work from home. The relocation of this workplace from offices to homes has affected the internet as well as the number of users of teleconferencing, entertainment, education, ordering, delivering and work-related applications are simultaneously using the internet. This, of course, has been noticed as well by the criminals who are switching to infrastructure-based attacks such as [DDoSing](https://www.darkreading.com/attacks-breaches/ddos-attack-targets-german-food-delivery-service/d/d-id/1337359) delivery sites as well.
+
+The number of new domains with the name *coronavirus* attached to it is surging, and although not all the new domains popping are necessarily malicious there is definitely a drive from domain squatters seeking to profit from interest in coronavirus-derived domains.
+
+A quick look at the domain registrations during the beginning of February by the researcher [Malware Uktonos](https://twitter.com/malwareutkonos?lang=en) found a total of 212 domain registrations, some of these registrations suggest clear for-profit use intended.
+
+Domain Name
+- hxxps://coronavirus-rx.com/
+- hxxps://coronavirustest.net/
+- hxxps://coronavirus-cure.com
+- hxxps://coronaviruskits.com/
+- hxxps://coronaviruscures.com/
+
+And although many of the registrations seem to indicate they’re driven by domain squatting, there were a couple of domains that were clearly fraudulent. The following graphics show the suspected domains.
+
+![Coronavirusvaccine](/images/vaccine.png)
+
+- vaccine-coronavirus[.]com
+- Registrar	NAMECHEAP INC NameCheap, Inc.
+- IANA ID: 1068
+- URL: http://www.namecheap.com
+- Whois Server: whois.namecheap.com
+- Dates	52 days old
+- Created on 2020-01-29
+- Expires on 2021-01-29
+- Updated on 0000-12-31
+
+This site was already charging for a fake vaccine. Source [MalwareUtkonos](https://twitter.com/malwareutkonos?lang=en)
+
+![BtcRansom](/images/btc.png)
+
+The second site was another fraudulent site claiming to be a funding site, however, it’s unclear what these funds were going to be used for.
+
+![CoronaVirusFund](/images/coronavirusfund.jpeg)
+![Coronavirusfund](/images/coronavirusfund.png)
+
+- coronavirusfund[.]org
+- Registrar	Domain.com, LLC
+- IANA ID: 886
+- URL: www.domain.com
+- Whois Server: whois.domain.com
+- Dates	56 days old
+- Created on 2020-01-25
+- Expires on 2021-01-25
+- Updated on 2020-01-27
+
+Thanks to Jose Nazario from [Censys.io](https://censys.io/) we can also grab information on the certificate for this suspicious website.
+![Censys.io](/images/censysinfo.png)
+
+As it can be seen in the graphs these domains were recently registered and functioning. These sites were taken down by quick action from [MaltwareUtkonos](https://twitter.com/malwareutkonos?lang=en) reaching out to registrars.
+
+![CEO](/images/lolceo.png)
+
+Because cybercrime will continue to target innocent and desperate people, it is imperative for the community to collaborate, alert, and act on these threats as they are likely to keep replicating and appearing time and time again.
+
+In these uncertain times, it is necessary to understand that many businesses are vulnerable as well to these types of attacks.s our reliance on infrastructure grows as the workplaces shift to remote settings, criminals will also shift to infrastructure vector attacks such as DDoS, ransomware or destructive payloads.
+
+IT & Security community professionals are  “ESSENTIAL” to keep these systems operating. During the [Wannacry](https://www.theguardian.com/technology/2017/oct/27/nhs-could-have-avoided-wannacry-hack-basic-it-security-national-audit-office) campaign, many healthcare institutions were affected because they were running unpatched and outdated systems, in some instances, placing life-saving procedures ON HOLD. More recently the US [HHS](https://www.vox.com/recode/2020/3/16/21181825/health-human-services-coronavirus-website-ddos-cyber-attack) site was attacked as well. Immediate access to information, as well as the infrastructure that allows actions on data to make critical decisions, is imperative. 
